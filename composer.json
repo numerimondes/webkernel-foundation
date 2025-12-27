@@ -3,7 +3,7 @@
   "description": "The System Files of Webkernel",
   "type": "project",
   "license": "MPL-2.0",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "autoload": {
     "psr-4": {
       "Webkernel\\": "src/"
