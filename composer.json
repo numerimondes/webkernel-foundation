@@ -1,6 +1,6 @@
 {
   "name": "webkernel/foundation",
-  "description": "The Core Files of Webkernel",
+  "description": "The System Files of Webkernel",
   "type": "library",
   "license": "MPL-2.0",
   "autoload": {
