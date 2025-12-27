@@ -1,8 +1,9 @@
 {
   "name": "webkernel/foundation",
   "description": "The System Files of Webkernel",
-  "type": "library",
+  "type": "project",
   "license": "MPL-2.0",
+  "version": "0.1.0",
   "autoload": {
     "psr-4": {
       "Webkernel\\": "src/"
