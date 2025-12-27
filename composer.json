@@ -1,0 +1,19 @@
+{
+  "name": "webkernel/foundation",
+  "description": "The Core Files of Webkernel",
+  "type": "library",
+  "license": "MPL-2.0",
+  "autoload": {
+    "psr-4": {
+      "Webkernel\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "numerimondes",
+      "email": "165125632+emyassine@users.noreply.github.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
